@@ -4,4 +4,4 @@ My name is Andrew Davis and I am a Freelancer and Consultant specializing in Dev
 
 ### Repositories
 I have a showcase of my repositories within the organization [CodeLabs-Case](https://github.com/CodeLabs-Case/)  
-All work is my own and I add new projects showing what I am currently researching regularly  
+All work is my own and I add new projects showing what I am currently researching monthly  
